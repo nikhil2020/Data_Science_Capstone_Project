@@ -4,7 +4,7 @@
 300k medical appointments and its 15 variables (characteristics) of each. The most important one if the patient show-up or no-show the appointment. Variable names are self-explanatory
 ## Problem Statement:
 **Predict someone to no-show an appointment**.
-***Dataset Description:***
+#### ***Dataset Description:***
 - **PatientId** - Identification of a patient AppointmentID - Identification of each appointment Gender - Male or Female . Female is the greater proportion; woman takes way more care of their health in comparison to man. DataMarcacaoConsulta - The day of the actual appointment, when they have to visit the doctor.
 - **DataAgendamento** - The day someone called or registered the appointment, this is before appointment of course.
 - **Age** - How old is the patient.
