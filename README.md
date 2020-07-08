@@ -4,7 +4,7 @@
 300k medical appointments and its 15 variables (characteristics) of each. The most important one if the patient show-up or no-show the appointment. Variable names are self-explanatory
 ## Problem Statement:
 **Predict someone to no-show an appointment**.
-*Dataset Description*:
+***Dataset Description:***
 - **PatientId** - Identification of a patient AppointmentID - Identification of each appointment Gender - Male or Female . Female is the greater proportion; woman takes way more care of their health in comparison to man. DataMarcacaoConsulta - The day of the actual appointment, when they have to visit the doctor.
 - **DataAgendamento** - The day someone called or registered the appointment, this is before appointment of course.
 - **Age** - How old is the patient.
@@ -16,7 +16,7 @@
 - **Handcap** - True or False
 - **SMS_received** - 1 or more messages sent to the patient No-show - True or False
 ## Approach :
-*Following pointers will be helpful to structure your findings.*
+***Following pointers will be helpful to structure your findings.***
 1. Try and explore the data to check for missing values/erroneous entries and also comment on redundant features and add additional ones, if needed.
 2. It is immediately apparent that some of the column names have typos, so let us clear them up before continuing further, so that we don't have to use alternate spellings every time we need a variable.
 3. For convenience, convert the AppointmentRegistration and Appointment columns into datetime64 format and the AwaitingTime column into absolute values.
