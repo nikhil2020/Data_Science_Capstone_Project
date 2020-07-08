@@ -1,4 +1,6 @@
 # Data_Science_Capstone_Project
+### Data Visualization with Tableau Public
+***Check out for*** https://public.tableau.com/profile/nikhil8753#!/vizhome/HealthCare_Capstone_Project/Dashboard1[](https://)
 ![alt-text](https://github.com/nikhil2020/Data_Science_Capstone_Project/blob/master/Tableau_Data_Viz.png)
 ## ***Context:***
  A person makes a doctor appointment, receives all the instructions and no-show. Who to blame?
