@@ -1,5 +1,5 @@
 # Data_Science_Capstone_Project
-Context:
+## ***Context:***
  A person makes a doctor appointment, receives all the instructions and no-show. Who to blame?
 300k medical appointments and its 15 variables (characteristics) of each. The most important one if the patient show-up or no-show the appointment. Variable names are self-explanatory
 ## Problem Statement:
