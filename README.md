@@ -1,4 +1,4 @@
-# Data_Science_Capstone_Project
+# Data_Science_Project
 ### Tableau Public
 #### **Data Visualization with DoughtPie Chart**
 ***Check out for more*** https://public.tableau.com/profile/nikhil8753#!/vizhome/HealthCare_Capstone_Project/Dashboard1[](https://)
